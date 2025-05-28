@@ -1,6 +1,7 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
-import reports from "../data/reports"; // mock reports data
+// Fix here: import from Data.js instead of Reports.js
+import reports from "../Data/Reports.js";
 
 export default function AdminDashboard() {
   const navigate = useNavigate();
