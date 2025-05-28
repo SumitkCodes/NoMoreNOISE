@@ -95,6 +95,25 @@ Visit [http://localhost:5173](http://localhost:5173) to see the app running.
 * Use the microphone to measure noise levels in your area.
 * Submit a report including noise decibel reading and optional comments.
 * View your submitted report history to check past complaints.
+### LOGO
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/b365ec28-88d0-4253-93d9-47ae7f108742" alt="NoMoreNoise Logo" width="150"/>
+
+
+
+### Screenshots 
+<img width="1467" alt="Screenshot 2025-05-29 at 1 21 57 AM" src="https://github.com/user-attachments/assets/db4994b8-65f6-4103-85eb-e4cc65204e16" />
+### for volunteers or admins
+<img width="1457" alt="Screenshot 2025-05-29 at 1 22 20 AM" src="https://github.com/user-attachments/assets/f85cef92-26a0-4467-bdf8-b69a4e8918ad" />
+<img width="1461" alt="Screenshot 2025-05-29 at 1 22 29 AM" src="https://github.com/user-attachments/assets/5d73e9f8-828e-4030-8500-ab2e86c97d92" />
+
+### About page
+
+<img width="1456" alt="Screenshot 2025-05-29 at 1 22 41 AM" src="https://github.com/user-attachments/assets/09a3f19c-2274-4caf-a1ac-8a36cf5ea96c" />
+<img width="1407" alt="Screenshot 2025-05-29 at 1 22 49 AM" src="https://github.com/user-attachments/assets/7b198cbd-d1a6-4b39-a7f2-6f115a0de528" />
+
+
+
 
 ### For Volunteers/Admins:
 
